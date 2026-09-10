@@ -8,7 +8,7 @@ This is a personal website for Muhammad Raima. It shares her background, educati
 
 - **Home**: Introduction, journey, interests, and contact information
 - **Education**:  Educational background and courses
-- **Work & Advocacy**:  Work experience, leadership, and advocacy
+- **Experience**:  Work experience, leadership, and advocacy
 - **Gallery**:  Photos and moments from her journey
 
 ## Technologies Used
@@ -19,7 +19,7 @@ This is a personal website for Muhammad Raima. It shares her background, educati
 
 ## Author
 
-**Muhammad Raima**
+**Muhammad Raima:**
 **S25D14/021**
 
 Youth Leader | Debater | Public Speaker | Climate Advocate | Emerging Technologist
