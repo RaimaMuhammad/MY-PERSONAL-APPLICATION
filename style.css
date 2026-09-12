@@ -799,3 +799,406 @@ footer p {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* WORK EXPERIENCE PAGE */
+
+
+/* WORK EXPERIENCE */
+
+#work-experience {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+
+    display: grid;
+
+    grid-template-columns: 300px 1fr;
+
+    gap: 40px;
+}
+
+
+/* WORK EXPERIENCE HEADING */
+
+#work-experience h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 25px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-size: 26px;
+
+    grid-column: 1 / 3;
+}
+
+
+/* JOB TITLE */
+
+#work-experience h2 {
+    color: #BA88AE;
+
+    font-size: 22px;
+
+    margin: 0;
+}
+
+
+/* WORK EXPERIENCE TEXT */
+
+#work-experience p {
+    color: #E8D1E1;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    text-align: justify;
+
+    margin: 0;
+}
+
+
+/* WORK EXPERIENCE IMAGE */
+
+#work-experience figure {
+    grid-column: 1;
+
+    grid-row: 2 / 4;
+
+    margin: 0;
+
+    padding: 0;
+}
+
+
+/* IMAGE */
+
+#work-experience img {
+    width: 300px;
+
+    height: 200px;
+
+    object-fit: cover;
+
+    border: 5px solid #9E6899;
+
+    border-radius: 8px;
+}
+
+
+/* IMAGE CAPTION */
+
+#work-experience figcaption {
+    color: #D6A8C4;
+
+    font-size: 17px;
+
+    text-align: center;
+}
+
+
+/* ADVOCACY */
+
+#advocacy {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* ADVOCACY HEADING */
+
+#advocacy h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 25px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-size: 26px;
+}
+
+
+/* ADVOCACY TABLE */
+
+#advocacy table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 20px;
+}
+
+
+/* ADVOCACY TABLE HEADINGS */
+
+#advocacy th {
+    background-color: #5B3765;
+
+    color: #F1DDEA;
+
+    padding: 15px;
+
+    text-align: center;
+
+    border: 1px solid #9E6899;
+}
+
+
+/* ADVOCACY TABLE CONTENT */
+
+#advocacy td {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 15px;
+
+    text-align: left;
+
+    border: 1px solid #5B3765;
+}
+
+
+/* DEBATE EXPERIENCE */
+
+#debate-experience {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* DEBATE HEADING */
+
+#debate-experience h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 25px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-size: 26px;
+}
+
+
+/* DEBATE TABLE */
+
+#debate-experience table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 20px;
+}
+
+
+/* DEBATE TABLE HEADINGS */
+
+#debate-experience th {
+    background-color: #5B3765;
+
+    color: #F1DDEA;
+
+    padding: 15px;
+
+    text-align: center;
+
+    border: 1px solid #9E6899;
+}
+
+
+/* DEBATE TABLE CONTENT */
+
+#debate-experience td {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 15px;
+
+    text-align: left;
+
+    border: 1px solid #5B3765;
+}
+
+
+/* AWARDS */
+
+#awards {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* AWARDS HEADING */
+
+#awards h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 25px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-size: 26px;
+}
+
+
+/* AWARDS TABLE */
+
+#awards table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 20px;
+}
+
+
+/* AWARDS TABLE HEADINGS */
+
+#awards th {
+    background-color: #5B3765;
+
+    color: #F1DDEA;
+
+    padding: 15px;
+
+    text-align: center;
+
+    border: 1px solid #9E6899;
+}
+
+
+/* AWARDS TABLE CONTENT */
+
+#awards td {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 15px;
+
+    text-align: left;
+
+    border: 1px solid #5B3765;
+}
