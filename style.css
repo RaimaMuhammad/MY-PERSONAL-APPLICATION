@@ -480,3 +480,76 @@ footer p {
 
     text-align: justify;
 }
+
+/* CONTACT*/
+
+#contact {
+    background-color: #302332;
+    color: #E8D1E1;
+    padding: 40px;
+    margin: 30px auto;
+    max-width: 1100px;
+    border-left: 5px solid #9E6899;
+    border-radius: 12px;
+}
+
+
+/* Heading */
+
+#contact h1 {
+    color: #F1DDEA;
+    text-align: center;
+    background-color: #241A25;
+    padding: 15px;
+    border: 1px solid #5B3765;
+    border-radius: 6px;
+}
+
+
+/* Text */
+
+#contact p {
+    color: #E8D1E1;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+
+/* Form */
+
+#contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 600px;
+}
+
+
+/* Labels */
+
+#contact label {
+    color: #D6A8C4;
+    font-weight: bold;
+}
+
+
+/* Inputs */
+
+#contact input {
+    background-color: #241A25;
+    color: #E8D1E1;
+    border: 1px solid #5B3765;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+
+/* Button */
+
+#contact button {
+    background-color: #9E6899;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+}
