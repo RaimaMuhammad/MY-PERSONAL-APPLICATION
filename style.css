@@ -227,6 +227,28 @@ footer p {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* HOME PAGE */
 
 /* ABOUT ME*/
@@ -309,9 +331,7 @@ footer p {
     text-align: justify;
 }
 
-/* =========================
-   HER JOURNEY
-   ========================= */
+/* HER JOURNEY*/
 
 #her-journey {
     background-color: #302332;
@@ -565,5 +585,217 @@ footer p {
     float: right;
     margin-left: 40px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDUCATION PAGE */
+
+
+/* EDUCATION SECTION */
+
+#education {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* EDUCATION HEADING */
+
+#education h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 20px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 26px;
+
+    font-weight: bold;
+}
+
+
+/* EDUCATION PARAGRAPH */
+
+#education p {
+    color: #E8D1E1;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    text-align: justify;
+}
+
+
+/* EDUCATION TABLE */
+
+#education table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 25px;
+}
+
+
+/* EDUCATION TABLE HEADINGS */
+
+#education th {
+    background-color: #5B3765;
+
+    color: #F1DDEA;
+
+    padding: 15px;
+
+    text-align: center;
+
+    border: 1px solid #9E6899;
+}
+
+
+/* EDUCATION TABLE CONTENT */
+
+#education td {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 15px;
+
+    text-align: left;
+
+    border: 1px solid #5B3765;
+}
+
+
+/* COURSES AND TRAINING */
+
+#courses {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* COURSES HEADING */
+
+#courses h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 20px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 26px;
+
+    font-weight: bold;
+}
+
+
+/* COURSES TABLE */
+
+#courses table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 25px;
+}
+
+
+/* COURSES TABLE HEADINGS */
+
+#courses th {
+    background-color: #5B3765;
+
+    color: #F1DDEA;
+
+    padding: 15px;
+
+    text-align: center;
+
+    border: 1px solid #9E6899;
+}
+
+
+/* COURSES TABLE CONTENT */
+
+#courses td {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 15px;
+
+    text-align: left;
+
+    border: 1px solid #5B3765;
+}
+
 
 
