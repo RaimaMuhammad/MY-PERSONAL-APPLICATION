@@ -225,3 +225,87 @@ footer p {
 
     margin: 0;
 }
+
+
+/* HOME PAGE */
+
+/* ABOUT ME*/
+
+#about-us {
+    background-color: #241A25;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* About Me heading */
+
+#about-us h1 {
+    color: #F1DDEA;
+
+    text-align: left;
+
+    font-size: 26px;
+
+    margin: 0 0 25px 0;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-weight: bold;
+}
+
+
+/* Image */
+
+#about-us img {
+    width: 300px;
+
+    height: 350px;
+
+    object-fit: cover;
+
+    border-radius: 8px;
+
+    border: 5px solid #9E6899;
+
+    float: left;
+
+    margin: 0 40px 20px 0;
+}
+
+
+/* About Me subheading */
+
+#about-us h3 {
+    color: #C99BBC;
+
+    font-size: 21px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* About Me text */
+
+#about-us p {
+    color: #E8D1E1;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    text-align: justify;
+}
+
