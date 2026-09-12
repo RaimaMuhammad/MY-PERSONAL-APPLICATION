@@ -309,3 +309,77 @@ footer p {
     text-align: justify;
 }
 
+/* =========================
+   HER JOURNEY
+   ========================= */
+
+#her-journey {
+    background-color: #302332;
+
+    color: #E8D1E1;
+
+    padding: 40px;
+
+    margin: 30px auto;
+
+    max-width: 1100px;
+
+    border-left: 5px solid #9E6899;
+
+    border-radius: 12px;
+
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+/* Heading container */
+
+#her-journey h1 {
+    background-color: #241A25;
+
+    color: #F1DDEA;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin: 0 0 15px 0;
+
+    border: 1px solid #5B3765;
+
+    border-radius: 6px;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 26px;
+
+    font-weight: bold;
+}
+
+
+/* Journey content */
+
+#her-journey p {
+    color: #E8D1E1;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 17px;
+
+    line-height: 1.7;
+
+    text-align: justify;
+}
+
+
+/* Subheadings */
+
+#her-journey h3 {
+    color: #C99BBC;
+
+    font-family: "Times New Roman", Times, serif;
+
+    font-size: 21px;
+
+    text-align: left;
+}
