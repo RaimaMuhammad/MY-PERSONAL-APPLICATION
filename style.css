@@ -1,0 +1,123 @@
+/* =========================================
+   MUHAMMAD RAIMA
+   DARK ORCHID THEME
+   ========================================= */
+
+/* Main page */
+body {
+    background-color: #120E13;
+    color: #E8D1E1;
+}
+
+
+/* =========================
+   NAVIGATION
+   ========================= */
+
+nav {
+    background-color: #080709;
+    color: #F1DDEA;
+}
+
+nav h1,
+nav h2,
+nav h3 {
+    color: #F1DDEA;
+}
+
+nav a {
+    color: #D6A8C4;
+}
+
+
+/* =========================
+   HEADINGS
+   ========================= */
+
+h1 {
+    color: #D6A8C4;
+}
+
+h2 {
+    color: #BA88AE;
+}
+
+h3 {
+    color: #C99BBC;
+}
+
+
+/* =========================
+   SECTIONS
+   ========================= */
+
+section {
+    background-color: #241A25;
+    color: #E8D1E1;
+}
+
+section h1 {
+    color: #D6A8C4;
+}
+
+section h2 {
+    color: #BA88AE;
+}
+
+section h3 {
+    color: #C99BBC;
+}
+
+
+/* =========================
+   TABLES
+   ========================= */
+
+th {
+    background-color: #5B3765;
+    color: #F0DFEC;
+}
+
+td {
+    background-color: #302332;
+    color: #E8D1E1;
+}
+
+
+/* =========================
+   LINKS
+   ========================= */
+
+a {
+    color: #BA88AE;
+}
+
+nav a {
+    color: #D6A8C4;
+}
+
+
+/* =========================
+   FOOTER
+   ========================= */
+
+footer {
+    background-color: #080709;
+    color: #D6A8C4;
+}
+
+footer h1,
+footer h2,
+footer h3 {
+    color: #F1DDEA;
+}
+
+
+/* =========================
+   BUTTONS
+   ========================= */
+
+button {
+    background-color: #9E6899;
+    color: #FFFFFF;
+}
